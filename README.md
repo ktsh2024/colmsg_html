@@ -24,7 +24,7 @@ Then you will find the HTML files by month in the folders:
 
 You may also put your nick name at the end of the command.  Otherwise **としくん** will be used as default.
 
-If you want to run the program in a script, remember to add **chcp 65001** to recognize unicode characters.  (see run_demo.cmd)
+If you want to run the program in a script, remember to add **chcp 65001** to recognize unicode characters.  (see **run_demo.cmd**)
 
 
 **日本語 ===================**
