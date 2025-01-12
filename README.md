@@ -17,4 +17,4 @@ C:\Prog\colmsg\html\日木坂26\日木坂26-加藤京子\日木坂26-加藤京�
 
 You may also put your nick name at the end of the command.  Otherwise "としくん" will be used as default.
 
-If you want to run the program in a script, remember to add chcp 65001 to recognize unicode characters.  (see run_demo.cmd)
+If you want to run the program in a script, remember to add "chcp 65001" to recognize unicode characters.  (see run_demo.cmd)
